@@ -1,5 +1,7 @@
 # Ejemplo Parcial Práctico 1
 
+samuel osorio 202324806
+
 ## Instrucciones
 
 1. Haga un _fork_ de este repositorio
